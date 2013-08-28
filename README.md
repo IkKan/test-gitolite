@@ -8,4 +8,3 @@ Ovo je novi test sa novim branchom
 
 Opet test sa novim branchom
 
-I jopet novi testis
